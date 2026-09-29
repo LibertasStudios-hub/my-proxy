@@ -4,5 +4,9 @@
   "main": "index.js",
   "engines": { "node": "22.x" },
   "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^5.1.0",
+    "unblocker": "^2.3.1"
+  },
   "license": "ISC"
 }   
